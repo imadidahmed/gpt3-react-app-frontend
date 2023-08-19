@@ -27,19 +27,19 @@ To get started with the project, follow these steps:
     ```sh
     npm start
 ## Components
-### Navbar
+#### Navbar
 The Navbar component provides a navigation bar at the top of the website, allowing users to easily access different sections of the page.
 
-### CTA
+#### CTA
 The CTA component features a compelling call-to-action, encouraging visitors to take a specific action like signing up or exploring GPT-3.
 
-### Brand
+#### Brand
 The Brand component introduces the GPT-3 service with an attention-grabbing tagline and a brief overview.
 
-### Article
+#### Article
 The Article component presents a comprehensive article or blog post about GPT-3, covering its technology, use cases, and potential impact.
 
-### Features
+#### Features
 The Features component showcases the key features and capabilities of GPT-3 using captivating icons and descriptions.
 
 ## Styling
