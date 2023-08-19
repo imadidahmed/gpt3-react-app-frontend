@@ -24,8 +24,6 @@ To get started with the project, follow these steps:
 3. Start the development server:
     ```sh
     npm start
-
-
 ## Components
 ### Navbar.js
 The Navbar component provides a navigation bar at the top of the website, allowing users to easily access different sections of the page.
