@@ -1,6 +1,6 @@
 # GPT-3 Powered Website
 
-Welcome to the GPT-3 Powered Website project! This is a single-page website showcasing the capabilities of GPT-3, utilizing React.js for component-based development and Pure CSS for styling. The website includes a navbar, call-to-action (CTA) section, brand introduction, article, and features section.
+Welcome to the GPT-3 Powered Website project! This is a single-page website showcasing the capabilities of GPT-3, utilizing React.js for component-based development and Pure CSS for styling. The website includes a navbar, call-to-action (CTA) section, brand introduction, article, and features section,...
 
 ## Table of Contents
 
@@ -18,6 +18,12 @@ To get started with the project, follow these steps:
    ```sh
    git clone https://github.com/imadidahmed/gpt3-react-app-frontend.git
 
+2. Install dependencies:
+    ```sh
+    npm install
+3. Start the development server:
+    ```sh
+    npm start
 
 
 ## Components
@@ -36,7 +42,7 @@ The Article component presents a comprehensive article or blog post about GPT-3,
 ### Features.js
 The Features component showcases the key features and capabilities of GPT-3 using captivating icons and descriptions.
 
-### Styling
+## Styling
 The project's styling is achieved using Pure CSS. The main stylesheet is located at styles/main.css. Each component may have its own additional styling to enhance its visual appeal.
 
 ## Usage
